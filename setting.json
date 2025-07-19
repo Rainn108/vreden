@@ -1,0 +1,109 @@
+{
+  "owner": {
+    "number": [
+      "6283191764910@s.whatsapp.net",
+      "6283191764910@s.whatsapp.net",
+      "6283191764910@s.whatsapp.net",
+      "6283191764910@s.whatsapp.net",
+      "6283890931278@s.whatsapp.net",
+      "6283890931278@s.whatsapp.net",
+      "6285692602660@s.whatsapp.net",
+      "6285752112023@s.whatsapp.net"
+    ],
+    "nomor": "6283890931278@s.whatsapp.net",
+    "name": "Ariyo Putra Pratama"
+  },
+  "links": {
+    "tiktok": "-",
+    "instagram": "-",
+    "channel": "-",
+    "group": "-",
+    "website": "-"
+  },
+  "bots": {
+    "nameFull": "Qioo Official",
+    "nameCall": "Qioo",
+    "footer": "@ariyopratama._",
+    "session": "session",
+    "session2": "session2",
+    "style": "v1",
+    "welcomeType": "v1",
+    "title": "VRD Team • ChatBots",
+    "menu": "------------ » *BOT INFO* « ------------\n\n┌━━━━━━━━━━┈─✧\n│ *☏ Bot Name :* @botname\n│ *♙ Prefix :* [ @prefix ]\n│ *₪ Jam :* @jam\n│ *▨ Total Fitur:* @totalfitur Fitur\n│ *⚿ Total Error:* 4 Fitur\n│ *♗ Version :* 7.8.0\n├━━━━━━━━━━┈─⋆\n┴ ▸ *User:* @pushname\n┬ ▸ *Your Device:* @device\n└━━━━━━━━━━┈─✧",
+    "pairing": true,
+    "idsaluran": "120363144038483540@newsletter",
+    "namasaluran": "WhatsApp"
+  },
+  "mediaPath": {
+    "donasi": "linkurl pomf lu",
+    "thumbnail": "https://files.catbox.moe/ljxyak.jpg",
+    "audioMenu": "https://files.catbox.moe/mbpb9n.mp3",
+    "audioOwner": "https://files.catbox.moe/xhrktg.opus"
+  },
+  "ptero": {
+    "links": "https://panel.sanze.site",
+    "plta": "ptla_Tjk3lQG7Qr5NCAGort7uTSZZjrp0I3ZjPQuy84oydkX",
+    "pltc": "ptlc_wnenzZh1tLYqFTQMJVTjxtpfAFT128hQ1m63nEAMc2N",
+    "eggs": 17,
+    "nets": 6,
+    "location": 1
+  },
+  "apikey": {
+    "skizo": "Btz-ZrmI5",
+    "zeeone": "gak usah isi, gak perlu",
+    "lolhuman": "sama, pajangan doang",
+    "neoxr": "panjangan",
+    "atlantic": "samudra brakakakak",
+    "otpku": "neyX9qEzgItWUihaO4r7SY6VFPABs3"
+  },
+  "general": {
+    "prefix": true,
+    "audioOwner": true,
+    "audioMenu": false,
+    "autoWelcome": false,
+    "autoLeave": false,
+    "autoBackup": true,
+    "autoBio": false,
+    "autoRespond": false,
+    "autoBlock212": false,
+    "autoRead": false,
+    "autoSholat": false,
+    "antiViewOnce": false,
+    "antiDelete": false,
+    "antiCall": true,
+    "onlyRegister": false,
+    "notifRegister": false,
+    "grupOnly": true,
+    "privateOnly": false
+  },
+  "count": {
+    "toxic": 5,
+    "antiLink": 5,
+    "limit": {
+      "premium": 100000,
+      "free": 100
+    },
+    "game": {
+      "premium": 500,
+      "free": 20
+    }
+  },
+  "reward": {
+    "game": 250,
+    "timeGame": 120000
+  },
+  "mess": {
+    "wait": "*Loading...*",
+    "error": {
+      "input": "Query yang kamu berikan tidak valid",
+      "api": "Ups, terjadi kesalahan pada botkey, silahkan hubungi owner untuk memperbaikinya",
+      "bot": "Terjadi kesalahan"
+    },
+    "OnlyGrup": "Command Khusus Grup!!",
+    "OnlyPM": "Command Khusus Private Chat!!",
+    "GrupAdmin": "Khusus Admin Grup!!",
+    "BotAdmin": "Bot Harus menjadi admin!!",
+    "OnlyOwner": "Khusus Owner Bot!!",
+    "OnlyPrem": "Khusus VIP User!!"
+  }
+}
